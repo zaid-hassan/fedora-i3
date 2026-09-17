@@ -1,0 +1,8 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/one_dark.toml"
+]
+
+[window]
+opacity = 1.0  # Set a value between 0.0 (fully transparent) and 1.0 (opaque)
+

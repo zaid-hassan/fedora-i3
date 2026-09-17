@@ -1,0 +1,18 @@
+@theme "~/.config/rofi/themes/one-dark.rasi"
+
+configuration {
+    modi: "window,drun,run";
+    show-icons: true;
+    icon-theme: "Papirus"; /* Optional: Specify your installed icon theme */
+    line-margin: 10;
+}
+
+listview {
+	lines: 6;
+	columns: 2;
+}
+
+window {
+	width: 30%;
+}
+
